@@ -1,0 +1,16 @@
+.btnUpdate{
+    display: none;
+  }
+  #errors{
+    display: none;
+  }
+  .errors-heading{
+    color: #DC143C;
+    font-weight: bold;
+  }
+  
+  .table{
+    margin-top: 50px;
+    margin-bottom: 100px;
+  }
+  
